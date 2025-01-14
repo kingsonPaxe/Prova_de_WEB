@@ -4,6 +4,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 /* Container principal */
 .container {
     display: flex;
@@ -94,7 +95,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    
+       
 }
 
 .right-side img {
