@@ -122,7 +122,7 @@ function deleteRecord(){
     const numberStudentRemove = document.getElementById("matricula")
 
 
-    const updatedStudents = students.filter((student) => student.matricula !== numberStudentRemove);
+    const updatedStudents = students.filter((student) => student.matricula !== numberStudentRemove); 
 
 
 
